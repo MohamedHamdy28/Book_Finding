@@ -1,8 +1,8 @@
-package com.company.GameController;
+package GameController;
 
-import com.company.Algorithms.AStar;
-import com.company.Algorithms.Backtracking;
-import com.company.Algorithms.Point;
+import Algorithms.AStar;
+import Algorithms.Backtracking;
+import Algorithms.Point;
 
 import java.util.ArrayList;
 import java.util.List;

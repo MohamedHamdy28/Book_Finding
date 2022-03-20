@@ -1,6 +1,4 @@
-package com.company.Algorithms;
-
-import com.company.Algorithms.Point;
+package Algorithms;
 
 import java.util.LinkedList;
 

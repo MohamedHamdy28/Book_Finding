@@ -1,4 +1,4 @@
-package com.company.Algorithms;
+package Algorithms;
 
 /**
  * This class has 2 variables which point at the position of the object

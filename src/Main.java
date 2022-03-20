@@ -1,6 +1,4 @@
-package com.company;
-
-import com.company.GameController.gameController;
+import GameController.gameController;
 
 public class Main {
 

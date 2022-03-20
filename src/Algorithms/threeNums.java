@@ -1,4 +1,4 @@
-package com.company.Algorithms;
+package Algorithms;
 
 /**
  * A class to contain the 3 needed numbers for each node

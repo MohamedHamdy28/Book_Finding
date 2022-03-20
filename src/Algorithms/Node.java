@@ -1,4 +1,4 @@
-package com.company.Algorithms;
+package Algorithms;
 
 /**
  * node to contain information for implementing the A star algorithm

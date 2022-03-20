@@ -1,6 +1,6 @@
-package com.company.GameController;
+package GameController;
 
-import com.company.Algorithms.Point;
+import Algorithms.Point;
 
 import java.util.ArrayList;
 import java.util.List;
