@@ -79,11 +79,13 @@ test map, comparison would be:
 • 2nd algorithm (variant 1) compared to 2nd algorithm (variant 2)
 
 # Sample of the output
-**This is the initial map:**
+- **This is the initial map:**
+
+
 ![image](https://user-images.githubusercontent.com/71794972/163440014-09f31df5-8fdd-44d7-9f99-23895278e304.png)
-**This is the result of the backtracking algotrithm**
+- **This is the result of the backtracking algotrithm**
 ![image](https://user-images.githubusercontent.com/71794972/163440133-268bd770-e1d1-4cc9-9cec-a23e0722ce66.png)
-**This is the result of the A start algorithm**
+- **This is the result of the A start algorithm**
 ![image](https://user-images.githubusercontent.com/71794972/163440230-219b04ec-fcd9-4462-b9a4-1f81b11ea571.png)
 
 
